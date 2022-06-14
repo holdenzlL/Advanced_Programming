@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b5e2223-2919-425f-a89b-1d75051b3953" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../report/imgs/SpringAOP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../report/imgs/container-magic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../report/imgs/springIOC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uml/SimpleFac.mdj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uml/abstractfactory.mdj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uml/factorymethod.mdj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uml/homemade.mdj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AFKeBQCmX6ZQ2lta4RlnIc1h9l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Documents/GitHub/Advanced_Programming/3_Design_Pattern/Factory_Pattern/prj",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "2506e3900fc83d0eb73c673e1d74c29c"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PizzaFactory\uml" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.advprog.factory.springAOPdemo" />
+      <recent name="com.advprog.factory.factorymethod" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ApplicationHomemade">
+    <configuration name="AppSpringdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.advprog.factory.springdemo.AppSpringdemo" />
+      <module name="PizzaFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.advprog.factory.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationAbstractFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.advprog.factory.abstractfactory.ApplicationAbstractFactory" />
+      <module name="PizzaFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.advprog.factory.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationFactoryMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.advprog.factory.factorymethod.ApplicationFactoryMethod" />
+      <module name="PizzaFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.advprog.factory.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationHomemade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.advprog.factory.homemade.ApplicationHomemade" />
+      <module name="prj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.advprog.factory.homemade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.advprog.factory.springaopdemo.AppSpringdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.advprog.factory.springaopdemo.AppSpringdemo" />
+      <module name="PizzaFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.advprog.factory.springaopdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationHomemade" />
+        <item itemvalue="Application.AppSpringdemo" />
+        <item itemvalue="Application.com.advprog.factory.springaopdemo.AppSpringdemo" />
+        <item itemvalue="Application.ApplicationAbstractFactory" />
+        <item itemvalue="Application.ApplicationFactoryMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b5e2223-2919-425f-a89b-1d75051b3953" name="Changes" comment="" />
+      <created>1654599989565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654599989565</updated>
+      <workItem from="1654599991612" duration="20430000" />
+      <workItem from="1654633204816" duration="3434000" />
+      <workItem from="1654684536850" duration="47000" />
+      <workItem from="1654707020792" duration="1993000" />
+      <workItem from="1655186686557" duration="4475000" />
+      <workItem from="1655193130617" duration="2745000" />
+      <workItem from="1655229839444" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
