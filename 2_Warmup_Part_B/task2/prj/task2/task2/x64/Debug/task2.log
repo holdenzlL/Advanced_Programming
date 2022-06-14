@@ -1,2 +1,14 @@
-﻿  main.cpp
-  task2.vcxproj -> D:\Documents\GitHub\Warmup_Advancedprog\task2\prj\task2\x64\Debug\task2.exe
+﻿  common.cpp
+  cString.cpp
+D:\Documents\GitHub\Advanced_Programming\2_Warmup_Part_B\task2\src\cString.cpp(8,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\GitHub\Advanced_Programming\2_Warmup_Part_B\task2\src\cString.cpp(75,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\GitHub\Advanced_Programming\2_Warmup_Part_B\task2\src\cString.cpp(118,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\GitHub\Advanced_Programming\2_Warmup_Part_B\task2\src\cString.cpp(186,6): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  cStrings.cpp
+D:\Documents\GitHub\Advanced_Programming\2_Warmup_Part_B\task2\src\cStrings.cpp(44,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  str.c
+D:\Documents\GitHub\Advanced_Programming\2_Warmup_Part_B\task2\src\str.c(283,15): warning C4090: '=': different 'const' qualifiers
+D:\Documents\GitHub\Advanced_Programming\2_Warmup_Part_B\task2\src\str.c(300,16): warning C4090: '=': different 'const' qualifiers
+  task2.vcxproj -> D:\Documents\GitHub\Advanced_Programming\2_Warmup_Part_B\task2\prj\task2\x64\Debug\task2.exe
