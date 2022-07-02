@@ -12,7 +12,7 @@
 
 Compare with the results of C/C++, the discussion is shown in the table.
 
-![](./img/20220418220718.png)
+![](./imgs/20220418220718.png)
 
 | Test items                                           | Java String & Arrays | C char         | C++ STL String & Vector |
 | ---------------------------------------------------- | -------------------- | -------------- | ----------------------- |
