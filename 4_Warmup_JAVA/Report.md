@@ -2,17 +2,17 @@
 
 1. Set the input file (the program reads the file as a string and sorts it)
 2. Set the output file (the program writes sorted string to it)
-   ![image-20220702212209771](.\imgs\image-20220702212209771.png)
+   ![image-20220702212209771](./imgs/image-20220702212209771.png)
 3. Run the program
 4. Enter the string from console
-   ![image-20220702212328200](.\imgs\image-20220702212328200.png)
+   ![image-20220702212328200](./imgs/image-20220702212328200.png)
 
 5. Get the result (measured in nanoseconds)
-   ![image-20220702212413215](.\imgs\image-20220702212413215.png)
+   ![image-20220702212413215](./imgs/image-20220702212413215.png)
 
 Compare with the results of C/C++, the discussion is shown in the table.
 
-![](.\imgs\20220418220718.png)
+![](./img/20220418220718.png)
 
 | Test items                                           | Java String & Arrays | C char         | C++ STL String & Vector |
 | ---------------------------------------------------- | -------------------- | -------------- | ----------------------- |
